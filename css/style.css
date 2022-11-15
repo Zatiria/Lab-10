@@ -1,0 +1,78 @@
+body
+{ background-color: #CCFFFF; }
+#background
+{
+	width: 500px;  
+	height: 650px;
+
+	background-color: #9999FF;
+	border-radius: 20px;
+	border: 5px solid #6666FF;
+	text-align: center;
+
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+.div
+{
+	width: 200px;  
+	height: 50px;
+	background-color: #8282fa;
+	border-radius: 20px;
+	border-color: #6666FF;
+	font-size: 150%;
+	color: #0000bb;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	vertical-align:top;
+	text-align: center;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button
+{
+	width: 300px;  
+	height: 60px;
+	left: 50%;
+	top: 10%;
+}
+#player
+{
+	left: 25%;
+	top: 20%;
+}
+#raund
+{
+	left: 75%;
+	top: 20%;
+}
+#field
+{
+	left: 50%;
+	top: 60%;
+	width: 450px;  
+	height: 450px;
+}
+.img
+{
+	width: 120px;  
+	height: 120px;
+	background-color: #6666FF;
+	border-radius: 20px;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+#img1	{	left: 20%;	top: 20%;	}
+#img2	{	left: 50%;	top: 20%;	}
+#img3	{	left: 80%;	top: 20%;	}
+#img4	{	left: 20%;	top: 50%;	}
+#img5	{	left: 50%;	top: 50%;	}
+#img6	{	left: 80%;	top: 50%;	}
+#img7	{	left: 20%;	top: 80%;	}
+#img8	{	left: 50%;	top: 80%;	}
+#img9	{	left: 80%;	top: 80%;	}
